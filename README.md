@@ -9,7 +9,7 @@ There are several ways you can achieve this with this extension:
 
 You can see this in this gif:
 
-Screen Recording 2025-06-20 at 10.44.04 am.gif
+![](https://github.com/mlava/image-ocr/blob/main/Screen%20Recording%202025-06-20%20at%2010.44.04%E2%80%AFam.gif)
 
 The extension checks each selected block for the presence of an image tag. If there aren't any image tags nothing will happen. If it recognises an image tag it will attempt to recognise text and then apply as a child block.
 
